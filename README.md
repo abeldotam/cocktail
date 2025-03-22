@@ -1,75 +1,18 @@
-# Nuxt Minimal Starter
+# Cocktail
 
-Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+This website is just a simple search bar that can give you recipes for some cocktail, based on the API of [TheCocktailDB](https://www.thecocktaildb.com/).
 
-## Setup
+You can try it just here: https://cocktail-lovat.vercel.app/
 
-Make sure to install dependencies:
+The interesting thing about this website is tha: I didn't code it.
 
-```bash
-# npm
-npm install
+I juste gave to Cursor that 2 only following prompt, and voilà: I have a fully fonctionnal website.
 
-# pnpm
-pnpm install
+![image](https://github.com/user-attachments/assets/d6864bd4-0fa2-480b-8570-05628e40a03d)
 
-# yarn
-yarn install
+![image](https://github.com/user-attachments/assets/b0e2b214-4128-41a6-9451-1e8078b36514)
 
-# bun
-bun install
-```
 
-## Development Server
+---
 
-Start the development server on `http://localhost:3000`:
-
-```bash
-# npm
-npm run dev
-
-# pnpm
-pnpm dev
-
-# yarn
-yarn dev
-
-# bun
-bun run dev
-```
-
-## Production
-
-Build the application for production:
-
-```bash
-# npm
-npm run build
-
-# pnpm
-pnpm build
-
-# yarn
-yarn build
-
-# bun
-bun run build
-```
-
-Locally preview production build:
-
-```bash
-# npm
-npm run preview
-
-# pnpm
-pnpm preview
-
-# yarn
-yarn preview
-
-# bun
-bun run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+*(P.S: I'm sure that in few years, it will pretty normal, even standard, to have a fully website done from scratch with some AI, but at the time I write this lines, that's pretty awesome).*
